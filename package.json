@@ -1,0 +1,20 @@
+{
+  "name": "imgresizing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Goodwin",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-image-resize": "^0.7.1"
+  },
+  "dependencies": {
+    "gm": "^1.21.1",
+    "gulp": "^3.9.1",
+    "gulp-image-resize": "^0.7.1",
+    "image-size": "^0.4.0"
+  }
+}
